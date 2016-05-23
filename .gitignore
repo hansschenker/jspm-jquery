@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 dist
 jspm_packages
+=======
+>>>>>>> 0b92237dd795d3ede54f7cda39887093aa9bb7b1
 # Logs
 logs
 *.log
@@ -33,4 +36,7 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+<<<<<<< HEAD
 >>>>>>> 0d165d2868822a9d6dcfe5b0cb3e83ff5a7490e5
+=======
+>>>>>>> 0b92237dd795d3ede54f7cda39887093aa9bb7b1

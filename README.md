@@ -1,2 +1,1 @@
-# jquery-jspm-json
-Json-Server with jQuery and Jspm Module Loader
+jQuery Project with Jspm Module Loader for CAS-FEE-2016 Notes App
