@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "system",
+        "target": "es5",
+        "noImplicitAny": false,
+        "sourceMap": true,
+        "sourceRoot": "src",
+        "outDir": "dist"
+    },
+    "files": [
+        "typings/jquery/jquery.d.ts",
+        "src/js/main.ts"
+    ]
+}
